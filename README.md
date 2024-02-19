@@ -17,6 +17,6 @@ REASON FOR WRITING CODE
   
 
 TWO TRUTHS AND A LIE
-  1. I can play the piano.
+  1. I know how to play the piano.
   2. I have been to the top of Blue Mountain.
   3. I have been to three countries outside of Jamaica.
